@@ -1,4 +1,4 @@
-# Store
+# web interface Store and Basket
 A JavaScript project that displays e-commerce logic about stock and cart
 
 Storage location: localStorage
